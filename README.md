@@ -5,12 +5,8 @@ This script allows you to easily download and install GoLang on any Linux distri
 ## Prerequisites ##
 
 Before running the script, make sure you have the following tools installed:
-1. **wget**<br>
-
-Used for downloading files from the web. It’s available on most Linux distributions by default.<br>
+1. **wget**
 2. **tar**
-
-Used for extracting files from compressed archives. It’s commonly pre-installed on Linux systems.
 
 You can install them with the following commands:
 
@@ -34,15 +30,13 @@ git clone https://github.com/yourusername/gol-download-script.git
 cd gol-download-script
 ```
 
-2. Run the script to download GoLang:
+2. Run the script to download & install **GoLang**:
 ```bash
 python3 script.py
 ```
 
 The script will:
 
-    Download the latest GoLang archive
-
-    Extract it to /usr/local
-
-    Update your system PATH to include the Go binary directory.
+Download the latest **GoLang** archive,
+Extract it to /usr/local,
+Update your system PATH to include the Go binary directory.
