@@ -1,12 +1,13 @@
 ### GoLang Download Script ###
 
 This script allows you to easily download and install GoLang on any Linux distribution.
-Prerequisites
+
+## Prerequisites ##
 
 Before running the script, make sure you have the following tools installed:
-1. **wget**
+1. **wget**<br>
 
-Used for downloading files from the web. It’s available on most Linux distributions by default.
+Used for downloading files from the web. It’s available on most Linux distributions by default.<br>
 2. **tar**
 
 Used for extracting files from compressed archives. It’s commonly pre-installed on Linux systems.
